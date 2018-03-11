@@ -1,1 +1,1 @@
-123
+C# script code generator for [UnityRipper](https://github.com/mafaca/UnityRipper) project from [such](https://gist.github.com/capntrips/659bec02ab8f65347f40bd88aa0ef059/443ebfafeeb7d03321ba4b4d0afa830ee1a92962#file-structs-dump-L5-L20) kind of structures.
